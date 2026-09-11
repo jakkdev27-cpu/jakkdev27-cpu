@@ -14,19 +14,6 @@ I work across **backend, frontend, database and mobile development**, with a str
   <img src="./assets/about-me-terminal.svg" alt="About Me Terminal" width="100%" />
 </p>
 
-* 🎓 Computer Science / Software Engineering student
-* 💻 Passionate about software development and application architecture
-* 🚀 Building full-stack web and mobile applications
-* ☕ Java & Spring Boot enthusiast
-* 🐍 Python & Django developer
-* ⚡ JavaScript & TypeScript developer
-* ⚛️ React.js & React Native
-* 🟢 Node.js
-* 🗄️ PostgreSQL & SQL
-* 🧠 Interested in Artificial Intelligence and intelligent systems
-* 🌱 Always learning and improving
-* 🤝 Open to collaboration on interesting projects
-
 <br clear="right"/>
 
 ---
