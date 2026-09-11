@@ -10,19 +10,14 @@ I work across **backend, frontend, database and mobile development**, with a str
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/gif1.gif">
-
-```text
-$ whoami
-
-Jean KPETSI
-Software Developer
-
-> Building applications
-> Solving problems
-> Learning new technologies
-> Turning ideas into code
-```
+<p align="center">
+  <img 
+    align="right"
+    width="400"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00FF00&background=000000&center=false&vCenter=true&width=400&height=220&lines=%24+whoami;%3E+Jean+KPETSI;%3E+Software+Developer;%24+java+--version;%3E+Spring+Boot;%24+python+manage.py+runserver;%3E+Django;%24+npm+run+dev;%3E+React+%7C+Node.js;%24+git+push+origin+main"
+    alt="Terminal coding animation"
+  />
+</p>
 
 * 🎓 Computer Science / Software Engineering student
 * 💻 Passionate about software development and application architecture
