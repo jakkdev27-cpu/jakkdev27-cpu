@@ -11,60 +11,7 @@ I work across **backend, frontend, database and mobile development**, with a str
 ## 🚀 About Me
 
 <p align="center">
-
-<svg width="100%" viewBox="0 0 1600 620" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code', 'Courier New', monospace">
-  <!-- background -->
-  <rect x="1" y="1" width="1598" height="618" rx="14" fill="#0a0e17" stroke="#26314a" stroke-width="1.5"/>
-
-  <!-- window controls -->
-  <circle cx="42" cy="42" r="9" fill="#ff5f56"/>
-  <circle cx="70" cy="42" r="9" fill="#ffbd2e"/>
-  <circle cx="98" cy="42" r="9" fill="#27c93f"/>
-  <line x1="1" y1="70" x2="1599" y2="70" stroke="#1c2537" stroke-width="1.5"/>
-
-  <!-- terminal text (left column) -->
-  <g font-size="19" fill="#c9d6e3">
-    <text x="40" y="112" fill="#27c93f">jakkdev27-cpu@dev:~$ whoami</text>
-    <text x="60" y="140" fill="#4fd1ff">&gt; Jean KPETSI</text>
-    <text x="60" y="166" fill="#4fd1ff">&gt; Software Developer</text>
-    <text x="60" y="192" fill="#4fd1ff">&gt; Computer Science &amp; Software Engineering Student</text>
-
-    <text x="40" y="238" fill="#27c93f">jakkdev27-cpu@dev:~$ cat about-me.txt</text>
-    <text x="60" y="266" fill="#4fd1ff">&gt; Passionate about Software Development</text>
-    <text x="60" y="292" fill="#4fd1ff">&gt; Building modern Web &amp; Mobile Applications</text>
-    <text x="60" y="318" fill="#4fd1ff">&gt; Java | Spring Boot | Python | Django</text>
-    <text x="60" y="344" fill="#4fd1ff">&gt; JavaScript | TypeScript | React | Node.js</text>
-    <text x="60" y="370" fill="#4fd1ff">&gt; React Native | HTML | CSS</text>
-    <text x="60" y="396" fill="#4fd1ff">&gt; PostgreSQL | SQL</text>
-    <text x="60" y="422" fill="#4fd1ff">&gt; Interested in AI &amp; Intelligent Systems</text>
-    <text x="60" y="448" fill="#4fd1ff">&gt; Always Learning. Always Building.</text>
-
-    <text x="40" y="494" fill="#27c93f">jakkdev27-cpu@dev:~$ git status</text>
-    <text x="60" y="522" fill="#4fd1ff">&gt; Ready to build the next project 🚀</text>
-  </g>
-
-  <!-- vertical divider -->
-  <line x1="1170" y1="90" x2="1170" y2="600" stroke="#1c2537" stroke-width="1.5"/>
-
-  <!-- code brackets icon -->
-  <g stroke="#4fd1ff" stroke-width="3" fill="none" stroke-dasharray="6 5">
-    <path d="M1240 220 L1210 260 L1240 300"/>
-    <path d="M1330 220 L1360 260 L1330 300"/>
-    <line x1="1270" y1="305" x2="1300" y2="215"/>
-  </g>
-
-  <!-- laptop illustration -->
-  <g stroke="#4fd1ff" stroke-width="2.5" fill="none">
-    <rect x="1300" y="330" width="220" height="140" rx="8"/>
-    <line x1="1270" y1="490" x2="1550" y2="490"/>
-    <path d="M1260 490 L1300 470 L1520 470 L1560 490 Z"/>
-    <line x1="1325" y1="360" x2="1420" y2="360" stroke="#66e0ff"/>
-    <line x1="1325" y1="380" x2="1460" y2="380" stroke="#ffd166"/>
-    <line x1="1325" y1="400" x2="1400" y2="400" stroke="#c792ea"/>
-    <line x1="1325" y1="420" x2="1440" y2="420" stroke="#66e0ff"/>
-  </g>
-</svg>
-
+  <img src="./assets/about-me-terminal.svg" alt="About Me Terminal" width="100%" />
 </p>
 
 * 🎓 Computer Science / Software Engineering student
