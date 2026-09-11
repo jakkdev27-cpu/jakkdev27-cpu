@@ -10,13 +10,34 @@ I work across **backend, frontend, database and mobile development**, with a str
 
 ## 🚀 About Me
 
+<img align="right" alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/gif1.gif">
+
+```text
+$ whoami
+
+Jean KPETSI
+Software Developer
+
+> Building applications
+> Solving problems
+> Learning new technologies
+> Turning ideas into code
+```
+
 * 🎓 Computer Science / Software Engineering student
-* 💻 Interested in software architecture and application development
-* 🔧 Building full-stack web and mobile applications
+* 💻 Passionate about software development and application architecture
+* 🚀 Building full-stack web and mobile applications
+* ☕ Java & Spring Boot enthusiast
+* 🐍 Python & Django developer
+* ⚡ JavaScript & TypeScript developer
+* ⚛️ React.js & React Native
+* 🟢 Node.js
+* 🗄️ PostgreSQL & SQL
 * 🧠 Interested in Artificial Intelligence and intelligent systems
-* 🗄️ Experienced with relational databases and SQL
-* 🌱 Continuously learning and improving my development skills
-* 🤝 Open to collaboration on interesting software projects
+* 🌱 Always learning and improving
+* 🤝 Open to collaboration on interesting projects
+
+<br clear="right"/>
 
 ---
 
@@ -98,20 +119,6 @@ Developing responsive web applications using:
 Exploring cross-platform mobile development with:
 
 `React Native`
-
----
-
-## 🧠 Development Areas
-
-```text
-Backend Development       ████████████████████
-Frontend Development      ████████████████████
-Database & SQL            ███████████████████░
-API Development            ███████████████████░
-Mobile Development         ████████████████░░░░
-Software Architecture      ███████████████░░░░░
-Artificial Intelligence    ████████████░░░░░░░░
-```
 
 ---
 
