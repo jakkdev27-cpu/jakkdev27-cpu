@@ -9,13 +9,12 @@ I work across **backend, frontend, database and mobile development**, with a str
 ---
 
 ## 🚀 About Me
+## 🚀 About Me
 
 <p align="center">
-  <img 
-    align="right"
-    width="400"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00FF00&background=000000&center=false&vCenter=true&width=400&height=220&lines=%24+whoami;%3E+Jean+KPETSI;%3E+Software+Developer;%24+java+--version;%3E+Spring+Boot;%24+python+manage.py+runserver;%3E+Django;%24+npm+run+dev;%3E+React+%7C+Node.js;%24+git+push+origin+main"
-    alt="Terminal coding animation"
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=900&color=00FF00&background=000000&center=true&vCenter=true&width=900&height=400&lines=%24+whoami;%3E+Jean+KPETSI;%3E+Software+Developer;%3E+Computer+Science+%26+Software+Engineering+Student;%24+cat+about-me.txt;%3E+Passionate+about+Software+Development;%3E+Building+modern+Web+%26+Mobile+Applications;%3E+Java+%7C+Spring+Boot+%7C+Python+%7C+Django;%3E+JavaScript+%7C+TypeScript+%7C+React+%7C+Node.js;%3E+React+Native+%7C+HTML+%7C+CSS;%3E+PostgreSQL+%7C+SQL;%3E+Interested+in+AI+%26+Intelligent+Systems;%3E+Always+Learning.+Always+Building.;%24+git+status;%3E+Ready+to+build+the+next+project+%F0%9F%9A%80"
+    alt="Jean KPETSI - Developer Terminal Animation"
   />
 </p>
 
