@@ -40,6 +40,7 @@ I work across **backend, frontend, database and mobile development**, with a str
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 
 * Spring Framework
 * Spring Boot
@@ -47,6 +48,7 @@ I work across **backend, frontend, database and mobile development**, with a str
 * Spring Data JPA
 * Spring Security
 * Django
+* Node.js
 * REST API
 
 ### 📱 Mobile Development
@@ -67,88 +69,4 @@ I work across **backend, frontend, database and mobile development**, with a str
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-
----
-
-## 📌 Featured Projects
-
-### 🛒 E-Commerce & Marketplace
-
-Building modern e-commerce and multi-vendor marketplace applications with:
-
-* Product and category management
-* Authentication and authorization
-* Seller management
-* Order management
-* Payment integration
-* REST APIs
-* PostgreSQL databases
-
-### 🌐 Web Applications
-
-Developing responsive web applications using:
-
-`React.js` • `TypeScript` • `JavaScript` • `HTML` • `CSS`
-
-### 📱 Mobile Applications
-
-Exploring cross-platform mobile development with:
-
-`React Native`
-
----
-
-## 🧠 Development Areas
-
-```text
-Backend Development       ████████████████████
-Frontend Development      ████████████████████
-Database & SQL            ███████████████████░
-API Development            ███████████████████░
-Mobile Development         ████████████████░░░░
-Software Architecture      ███████████████░░░░░
-Artificial Intelligence    ████████████░░░░░░░░
-```
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeanJAKK&show_icons=true&theme=tokyonight&hide_border=true" alt="JeanJAKK GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanJAKK&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 🎯 Current Goals
-
-* 🚀 Build production-ready applications
-* 🏗️ Improve software architecture skills
-* 🔐 Deepen backend security and authentication
-* 🗄️ Master database design and optimization
-* ⚛️ Improve React and React Native development
-* ☕ Deepen Java and Spring Boot expertise
-* 🐍 Strengthen Python and Django skills
-* 🤖 Explore Artificial Intelligence and intelligent systems
-* 🌍 Contribute to open-source projects
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/JeanJAKK">
-    <img src="https://img.shields.io/badge/GitHub-JeanJAKK-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Building software. Learning continuously. Creating impact. 🚀</i>
-</p>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-t)
